@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my github repository~
+Currently, I'm practicing endoscopy at a healthcare center.
+As a hobby, I have been coding private projects with Ruby on Rails since 2011.
+Recently, as second job, I'm trying small projects in small software development company.
