@@ -20,3 +20,5 @@ Currently, I'm practicing endoscopy as an endoscopist at a healthcare center in 
 As a hobby, I have been coding private projects with Ruby on Rails since 2011.
 
 Recently, as a second job, I'm trying small projects in small software development company.
+
+<img src='https://img.shields.io/badge/-Ruby%20on%20Rails-red'> <img src='https://img.shields.io/badge/-Javascript-yellowgreen'> <img src='https://img.shields.io/badge/-Node.js-success'> <img src='https://img.shields.io/badge/-ES6-yellow'>
