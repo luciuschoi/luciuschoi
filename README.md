@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **luciuschoi/luciuschoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my github repository~
+Welcome to my github repository!👋
 
-Currently, I'm practicing endoscopy at a healthcare center.
+Currently, I'm practicing endoscopy as an endoscopist at a healthcare center in South Korea.
 
 As a hobby, I have been coding private projects with Ruby on Rails since 2011.
 
-Recently, as second job, I'm trying small projects in small software development company.
+Recently, as a second job, I'm trying small projects in small software development company.
